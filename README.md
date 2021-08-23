@@ -8,9 +8,7 @@ Programming is my passion than profession. I do random stuff with coding in my w
 [![Facebook Badge](https://img.shields.io/badge/-tanvir362-1877F2?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/tanvir362/)](https://www.facebook.com/tanvir362/)
 
 - 🏢 I'm currently working at **Worklife**
-- 🚀 I use daily:
-
-  ![Python](https://img.shields.io/badge/-Python-3674A5?style=plastic&logo=Python&logoColor=FFD847)
+- 🚀 I use daily: ![Python](https://img.shields.io/badge/-Python-3674A5?style=plastic&logo=Python&logoColor=FFD847)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
