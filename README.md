@@ -2,7 +2,7 @@
 
 Programming is my passion than profession. I do random stuff with coding in my weekend, implementing algorithms, practicing in coding platforms, doing pet projects etc.
 
-I'm also availble here 
+I'm also availble 
 [![Linkedin Badge](https://img.shields.io/badge/-tanvir362-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanvir362/)](https://www.linkedin.com/in/tanvir362/)
 [![CodinGame Badge](https://img.shields.io/badge/-Tanvir-252E38?style=plastic&logo=Codingame&link=https://www.codingame.com/profile/de3de870009b6003314ce9cfff4a0d539284961)](https://www.codingame.com/profile/de3de870009b6003314ce9cfff4a0d539284961)
 [![Twitter Badge](https://img.shields.io/badge/-tanvir362-5DA9DD?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/tanvir362/)](https://twitter.com/tanvir362/)
