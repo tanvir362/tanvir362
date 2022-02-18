@@ -17,7 +17,7 @@ I'm also availble here
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-  ![Linux](https://img.shields.io/badge/Linux-20.04-orange)
+  ![Linux](https://img.shields.io/badge/Linux-Ubuntu--20.04-orange)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
