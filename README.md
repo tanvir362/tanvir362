@@ -23,5 +23,5 @@ I'm also availble
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 
 
-[![tanvir362's github stats](https://github-readme-stats.vercel.app/api?username=tanvir362&theme=dark&show_icons=true)](https://github.com/tanvir362)
+<!--[![tanvir362's github stats](https://github-readme-stats.vercel.app/api?username=tanvir362&theme=dark&show_icons=true)](https://github.com/tanvir362)-->
 
