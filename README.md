@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Programming is my passion than profession. I do random stuff with coding in my weekend, implementing algorithms, practicing in coding platforms, doing pet projects etc.
+I am passionate about coding and I always want to learn more and improve my skills. I find coding interesting and I enjoy doing it even in my free time. I always want to follow best practices and make the system I'm working on efficient and maintainable.
 
 I'm also availble at 
 [![Linkedin Badge](https://img.shields.io/badge/-tanvir362-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanvir362/)](https://www.linkedin.com/in/tanvir362/)
